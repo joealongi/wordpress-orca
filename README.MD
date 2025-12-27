@@ -2,7 +2,7 @@
 
 # WordPress Orca
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000) [![License: MIT ](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/heyitsjoealongi/wordpress-orca/blob/master/LICENSE) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fheyitsjoealongi%2Fwordpress-orca.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fheyitsjoealongi%2Fwordpress-orca?ref=badge_small)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000) [![License: MIT ](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/joealongi/wordpress-orca/blob/master/LICENSE)
 
 WordPress Orca for building lightweight applications in PHP, JavaScript, and CSS (Template), this configuration available by [Open Source](https://opensource.org/).
 
@@ -62,7 +62,7 @@ This project runs on WordPress, using minimal PHP, JavaScript, and CSS all dynam
 
 ##### Bugs and Issues
 
-Having an issue with the template? Report bugs & issues with WordPress Orca on GitHub via [Issues](https://github.com/heyitsjoealongi/wordpress-orca/issues). Fork, Pull, or Send an email over to join as a contributor! Join in on the open source conversation on [X](https://x.com/heyitsjoealongi).
+Having an issue with the template? Report bugs & issues with WordPress Orca on GitHub via [Issues](https://github.com/heyitsjoealongi/wordpress-orca/issues). Fork, Pull, or Send an email over to join as a contributor! Join in on the open source conversation on [X](https://x.com/joealongi).
 
 ##### Acknowledgments
 
@@ -72,6 +72,4 @@ Having an issue with the template? Report bugs & issues with WordPress Orca on G
 
 ##### License
 
-© 2024 WordPress Orca released via [MIT](https://opensource.org/licenses/MIT) license. Information on this license can be viewed as it applies to this repository on GitHub at [WordPress Orca License](https://github.com/heyitsjoealongi/wordpress-orca/blob/main/LICENSE).
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fheyitsjoealongi%2Fwordpress-orca.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fheyitsjoealongi%2Fwordpress-orca?ref=badge_large&issueType=license)
+© 2024 WordPress Orca released via [MIT](https://opensource.org/licenses/MIT) license. Information on this license can be viewed as it applies to this repository on GitHub at [WordPress Orca License](https://github.com/joealongi/wordpress-orca/blob/main/LICENSE).
