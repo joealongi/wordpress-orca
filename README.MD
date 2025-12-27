@@ -19,12 +19,12 @@ WordPress Orca for building lightweight applications in PHP, JavaScript, and CSS
 
 WordPress Orca is a lightweight PHP, JavaScript, and CSS theme template for WordPress.
 
-![GitHub stars](https://img.shields.io/github/stars/heyitsjoealongi/wordpress-orca?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/heyitsjoealongi)
+![GitHub stars](https://img.shields.io/github/stars/joealongi/react-ventures?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/joealongi?label=Follow&style=social)
 
-- Website: [heyitsjoealongi.com](https://heyitsjoealongi.com/)
-- X: [@heyitsjoealongi](https://x.com/heyitsjoealongi/)
-- GitHub: [@heyitsjoealongi](https://github.com/heyitsjoealongi/)
-- LinkedIn: [@heyitsjoealongi](https://www.linkedin.com/in/heyitsjoealongi/)
+- Website: [joealongi.dev](https://joealongi.dev/)
+- Twitter: [@joealongi](https://twitter.com/joealongi/)
+- GitHub: [@joealongi](https://github.com/joealongi/)
+- LinkedIn: [@joe-alongi](https://www.linkedin.com/in/joe-alongi/)
 
 ## Build
 
