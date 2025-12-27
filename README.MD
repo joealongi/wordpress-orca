@@ -1,4 +1,4 @@
-![WordPress Orca Banner](https://raw.githubusercontent.com/heyitsjoealongi/wordpress-orca/main/images/wordpress-orca.png)
+![WordPress Orca Banner](https://raw.githubusercontent.com/joealongi/wordpress-orca/main/images/wordpress-orca.png)
 
 # WordPress Orca
 
