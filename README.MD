@@ -22,7 +22,7 @@ WordPress Orca is a lightweight PHP, JavaScript, and CSS theme template for Word
 ![GitHub stars](https://img.shields.io/github/stars/joealongi/wordpress-orca?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/joealongi)
 
 - Website: [joealongi.dev](https://joealongi.dev/)
-- X: [@joealongi](https://twitter.com/joealongi/)
+- X: [@joealongi](https://x.com/joealongi)
 - GitHub: [@joealongi](https://github.com/joealongi/)
 - LinkedIn: [@joe-alongi](https://www.linkedin.com/in/joe-alongi/)
 
